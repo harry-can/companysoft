@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "326630946370",
+    "firebase_url": "https://pdsmarteducation-95bff-default-rtdb.firebaseio.com",
+    "project_id": "pdsmarteducation-95bff",
+    "storage_bucket": "pdsmarteducation-95bff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326630946370:android:81090da5195c03c63b9fdb",
+        "android_client_info": {
+          "package_name": "com.egurueducation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326630946370-fa9173v67cj4kb85r3ighk21429dsthc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGcMs-PLR8pySu-mW3u1dz08HXXFYX9Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326630946370-fa9173v67cj4kb85r3ighk21429dsthc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326630946370:android:6bc03deb479874713b9fdb",
+        "android_client_info": {
+          "package_name": "com.pdsmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326630946370-fa9173v67cj4kb85r3ighk21429dsthc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGcMs-PLR8pySu-mW3u1dz08HXXFYX9Oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326630946370-fa9173v67cj4kb85r3ighk21429dsthc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
